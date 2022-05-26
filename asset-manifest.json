@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shadow-Genrator/static/css/main.9bd1a593.css",
+    "main.js": "/Shadow-Genrator/static/js/main.e3a1f63a.js",
+    "static/js/787.f6cf3950.chunk.js": "/Shadow-Genrator/static/js/787.f6cf3950.chunk.js",
+    "index.html": "/Shadow-Genrator/index.html",
+    "main.9bd1a593.css.map": "/Shadow-Genrator/static/css/main.9bd1a593.css.map",
+    "main.e3a1f63a.js.map": "/Shadow-Genrator/static/js/main.e3a1f63a.js.map",
+    "787.f6cf3950.chunk.js.map": "/Shadow-Genrator/static/js/787.f6cf3950.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd1a593.css",
+    "static/js/main.e3a1f63a.js"
+  ]
+}
